@@ -53,6 +53,11 @@
 
 > **Why?** بدلًا من متابعة عشرات المستودعات يدويًا، اجمع كل شيء في مكان واحد بسرعة وبنية واضحة.
 
+
+<img width="1580" height="576" alt="2PNG" src="https://github.com/user-attachments/assets/228418ce-1c5b-4a92-be9f-3ceb65554f86" />
+<img width="1569" height="331" alt="image" src="https://github.com/user-attachments/assets/df56a711-af47-4c8a-a976-b042bc3dd775" />
+
+
 ---
 
 ## 🚀 Quick Start
